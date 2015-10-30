@@ -1,0 +1,6 @@
+D:\MEGA\PROGRAMMING\Fire Emblem If\FEIF_ARC\FEIF_ARC\bin\Release\FEIF_ARC.exe.config
+D:\MEGA\PROGRAMMING\Fire Emblem If\FEIF_ARC\FEIF_ARC\bin\Release\FEIF_ARC.exe
+D:\MEGA\PROGRAMMING\Fire Emblem If\FEIF_ARC\FEIF_ARC\bin\Release\FEIF_ARC.pdb
+D:\MEGA\PROGRAMMING\Fire Emblem If\FEIF_ARC\FEIF_ARC\obj\Release\FEIF_ARC.csprojResolveAssemblyReference.cache
+D:\MEGA\PROGRAMMING\Fire Emblem If\FEIF_ARC\FEIF_ARC\obj\Release\FEIF_ARC.exe
+D:\MEGA\PROGRAMMING\Fire Emblem If\FEIF_ARC\FEIF_ARC\obj\Release\FEIF_ARC.pdb

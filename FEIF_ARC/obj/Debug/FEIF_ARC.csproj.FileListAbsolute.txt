@@ -1,0 +1,15 @@
+c:\users\govanify\documents\visual studio 2013\Projects\FEIF_ARC\FEIF_ARC\bin\Debug\FEIF_ARC.exe.config
+c:\users\govanify\documents\visual studio 2013\Projects\FEIF_ARC\FEIF_ARC\obj\Debug\FEIF_ARC.csprojResolveAssemblyReference.cache
+c:\users\govanify\documents\visual studio 2013\Projects\FEIF_ARC\FEIF_ARC\bin\Debug\FEIF_ARC.exe
+c:\users\govanify\documents\visual studio 2013\Projects\FEIF_ARC\FEIF_ARC\bin\Debug\FEIF_ARC.pdb
+c:\users\govanify\documents\visual studio 2013\Projects\FEIF_ARC\FEIF_ARC\obj\Debug\FEIF_ARC.exe
+c:\users\govanify\documents\visual studio 2013\Projects\FEIF_ARC\FEIF_ARC\obj\Debug\FEIF_ARC.pdb
+C:\Users\GovanifY\Google Drive\Fire Emblem If\FEIF_ARC\FEIF_ARC\bin\Debug\FEIF_ARC.exe.config
+C:\Users\GovanifY\Google Drive\Fire Emblem If\FEIF_ARC\FEIF_ARC\obj\Debug\FEIF_ARC.exe
+C:\Users\GovanifY\Google Drive\Fire Emblem If\FEIF_ARC\FEIF_ARC\obj\Debug\FEIF_ARC.pdb
+C:\Users\GovanifY\Google Drive\Fire Emblem If\FEIF_ARC\FEIF_ARC\obj\Debug\FEIF_ARC.csprojResolveAssemblyReference.cache
+C:\Users\GovanifY\Google Drive\Fire Emblem If\FEIF_ARC\FEIF_ARC\bin\Debug\FEIF_ARC.exe
+C:\Users\GovanifY\Google Drive\Fire Emblem If\FEIF_ARC\FEIF_ARC\bin\Debug\FEIF_ARC.pdb
+D:\MEGA\PROGRAMMING\Fire Emblem If\FEIF_ARC\FEIF_ARC\bin\Debug\FEIF_ARC.exe.config
+D:\MEGA\PROGRAMMING\Fire Emblem If\FEIF_ARC\FEIF_ARC\obj\Debug\FEIF_ARC.exe
+D:\MEGA\PROGRAMMING\Fire Emblem If\FEIF_ARC\FEIF_ARC\obj\Debug\FEIF_ARC.pdb
